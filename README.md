@@ -1,1 +1,3 @@
-# texel_categorical_features
+# The test task by Texel
+
+Find 5 enumeration features for model.
